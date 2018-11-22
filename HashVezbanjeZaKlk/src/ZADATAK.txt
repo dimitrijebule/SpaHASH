@@ -1,0 +1,10 @@
+Klase:
+
+Gadjanje.java - prvi zadatak
+
+Kancelarije.java - drugi zadatak
+
+XO.java - treci zadatak
+
+...na koji nacin uraditi zadatak data su uputstva u komentarima
+zadataka pojedinacno.
